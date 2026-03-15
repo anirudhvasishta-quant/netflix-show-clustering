@@ -1,0 +1,5 @@
+netflix_titles.csv
+netflix_cleaned.csv
+netflix_clustered.csv
+__pycache__/
+*.pyc
